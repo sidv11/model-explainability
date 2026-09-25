@@ -1,0 +1,12 @@
+,gain_rank,permutation_rank,shap_rank,what_we_planted
+credit_score,1,1,1,planted: strong
+loan_amount,2,2,2,planted: strong (via loan / income ratio)
+debt_to_income,3,4,3,planted: medium
+num_late_payments,8,3,4,planted: strong
+annual_income,7,6,5,planted: strong (via loan / income ratio)
+has_cosigner,10,5,6,planted: medium
+employment_years,4,7,7,planted: small
+monthly_income_reported,6,8,8,planted: none (copy of income)
+random_noise,5,11,9,planted: none
+age,9,9,10,planted: none
+num_credit_cards,11,10,11,planted: none
